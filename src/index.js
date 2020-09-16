@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import {StateProvider} from './context/StateProvider'
 import reducer, {initialState} from './context/Reducer'
+import '../node_modules/font-awesome/css/font-awesome.min.css'
 
 
 ReactDOM.render(
